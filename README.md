@@ -14,7 +14,7 @@ Hey there! I'm Amirali.
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 Studying Industrial Engineering at Islamic Azad University.
 - 💼 Working as a Contractor Software Developer & working on some small personal projects.
-- 🌱 Learning about Microcontrollers, Embeded systems, Cloud and Cryptocurrency.
+- 🌱 Learning about Micro-controllers, Embeded systems, Cloud and Cryptocurrency.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
