@@ -1,9 +1,7 @@
 
 Hey there! I'm Amirali.
 
-![age](https://img.shields.io/badge/age-19-blue)
-![focus](https://img.shields.io/badge/focus-backend-brightgreen)
-![living](https://img.shields.io/badge/living-Iran-3c9)
+![focus](https://img.shields.io/badge/focus-DevOps-brightgreen)
 
 <a href="https://twitter.com/ilarimaeht" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://t.me/ilarimaeht" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&labelColor=2CA5E0&logo=telegram&logoColor=white" alt="Telegram"></a>
