@@ -3,7 +3,7 @@ Hey there! I'm Amirali.
 
 ![focus](https://img.shields.io/badge/focus-DevOps-brightgreen)
 
-<a href="https://twitter.com/ilarimaeht" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://twitter.com/_ilarima" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://t.me/ilarimaeht" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&labelColor=2CA5E0&logo=telegram&logoColor=white" alt="Telegram"></a>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
