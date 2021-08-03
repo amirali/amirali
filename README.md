@@ -10,7 +10,7 @@ Hey there! I'm Amirali.
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 Studying Industrial Engineering at Islamic Azad University.
 - 💼 Working as a Contractor Software Developer & working on some small personal projects.
-- 🌱 Learning about Micro-controllers, Embeded systems, Cloud and Cryptocurrency.
+- 🌱 Learning about Cryptography .
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -29,7 +29,7 @@ Hey there! I'm Amirali.
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧
   ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim&logoColor=00b012)
-  ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom&logoColor=66595C)
+  ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode&logoColor=66595C)
 
 <img src="https://github-readme-stats.vercel.app/api?username=amirali&theme=dracula&show_icons=true" />
 
