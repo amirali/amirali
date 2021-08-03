@@ -8,9 +8,8 @@ Hey there! I'm Amirali.
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 Studying Industrial Engineering at Islamic Azad University.
 - 💼 Working as a Contractor Software Developer & working on some small personal projects.
-- 🌱 Learning about Cryptography .
+- 🌱 Learning about Cryptography.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
