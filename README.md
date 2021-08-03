@@ -28,7 +28,7 @@ Hey there! I'm Amirali.
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧
   ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim&logoColor=00b012)
-  ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode&logoColor=66595C)
+  ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode&logoColor=277dff)
 
 <img src="https://github-readme-stats.vercel.app/api?username=amirali&theme=dracula&show_icons=true" />
 
