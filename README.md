@@ -1,6 +1,6 @@
 Hey there! I'm Amirali.
 
-![Focus](https://img.shields.io/badge/focus-Backend-brightgreen)
+![Focus](https://img.shields.io/badge/Focus-Backend-brightgreen)
 
 <a href="https://twitter.com/eilarima" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://t.me/eilarima" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&labelColor=2CA5E0&logo=telegram&logoColor=white" alt="Telegram"></a>
@@ -32,5 +32,5 @@ Hey there! I'm Amirali.
   ![NeoVim](https://img.shields.io/badge/-NeoVim-333333?style=flat&logo=neovim&logoColor=8fff6d)
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode&logoColor=277dff)
 
-<img src="https://github-readme-stats.vercel.app/api?username=amirali&theme=dracula&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=amirali&theme=nord&show_icons=true" />
 
