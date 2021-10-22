@@ -8,7 +8,7 @@ Hey there! I'm Amirali.
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
-- 💼 Working as a Contractor Software Developer & working on some small personal projects.
+- 💼 Working full time @[mia.re](https://mia.re)
 - 🌱 Learning about Cryptography.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
