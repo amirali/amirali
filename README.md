@@ -9,7 +9,7 @@ Hey there! I'm Amirali.
 
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - 💼 Working full time @[mia.re](https://mia.re)
-- 🌱 Learning about Cryptography.
+- 🌱 Learning about ![WASM](https://img.shields.io/badge/-WebAssembly-333333?style=flat&logo=webassembly&logoColor=654ff0).
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
