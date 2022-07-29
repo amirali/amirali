@@ -1,0 +1,21 @@
+[package]
+name = "amirali/amirali"
+version = "1.0.1"
+description = "Amirali's business card"
+license = "ISC"
+repository = "https://github.com/amirali/amirali"
+
+[dependencies]
+"amirali/amirali" = "1.0.1"
+
+[[module]]
+name = "amirali"
+source = "amirali.wasm"
+abi = "wasi"
+
+[module.interfaces]
+wasi = "0.0.0-unstable"
+
+[[command]]
+name = "amirali"
+module = "amirali"
