@@ -16,11 +16,9 @@ Hey there! I'm Amirali.
 - 💻
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go&logoColor=38f8ff)
-  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=cc0000)
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=010180)
 - 🛢
   ![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql&logoColor=316192)
-  ![Sqlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 - ⚙️
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
