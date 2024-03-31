@@ -14,8 +14,8 @@ Hey there! I'm Amirali.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go&logoColor=38f8ff)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=010180)
 - 🛢
   ![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql&logoColor=316192)
@@ -26,8 +26,8 @@ Hey there! I'm Amirali.
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧
-  ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim&logoColor=00b012)
   ![NeoVim](https://img.shields.io/badge/-NeoVim-333333?style=flat&logo=neovim&logoColor=8fff6d)
+  ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim&logoColor=00b012)
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode&logoColor=277dff)
 
 <img src="https://github-readme-stats.vercel.app/api?username=amirali&theme=nord&show_icons=true" />
