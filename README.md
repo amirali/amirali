@@ -8,7 +8,7 @@ Hey there! I'm Amirali.
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
-- 💼 Working full time @[mia.re](https://mia.re)
+- 💼 Working part-time @[Bluprint](https://bluprint.ir) and open source hobby projects.
 - 🌱 Learning about ![WASM](https://img.shields.io/badge/-WebAssembly-333333?style=flat&logo=webassembly&logoColor=654ff0).
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
